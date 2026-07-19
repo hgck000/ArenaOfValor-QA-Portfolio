@@ -1,4 +1,4 @@
-# 🎮 Arena of Valor QA Portfolio
+# Arena of Valor QA Portfolio
 
 > Manual Testing & Bug Investigation Portfolio
 
@@ -8,7 +8,7 @@
 
 ---
 
-# 📖 Overview
+# Overview
 
 This repository showcases my manual software testing skills through a practical QA portfolio based on **Arena of Valor (Liên Quân Mobile)**.
 
@@ -18,26 +18,25 @@ Instead of only learning testing concepts, I documented real testing activities 
 - Test Case Design
 - Test Execution
 - Bug Reporting
-- Regression Verification
 
 Most bug reports in this repository are based on gameplay issues that I personally discovered during long-term experience with the game.
 
 ---
 
-## 📊 Repository Statistics
+## Repository Statistics
 
-| Item                   |           Count |
-| ---------------------- | --------------: |
-| Test Plan              |               1 |
-| Test Modules           |               2 |
-| Test Cases             | 0 / In Progress |
-| Bug Reports            |     7 (Planned) |
-| Test Execution Reports |               1 |
-| Test Summary Reports   |               1 |
+| Item                   |       Count |
+| ---------------------- | ----------: |
+| Test Plan              |           1 |
+| Test Modules           |           4 |
+| Test Cases             |     15 / 15 |
+| Bug Reports            | 4 (Planned) |
+| Test Execution Reports |           1 |
+| Test Summary Reports   |           1 |
 
 ---
 
-# 🎯 Objectives
+# Objectives
 
 - Demonstrate practical Manual QA skills
 - Practice writing professional Bug Reports
@@ -46,24 +45,24 @@ Most bug reports in this repository are based on gameplay issues that I personal
 
 ---
 
-# 📂 Repository Structure
+# Repository Structure
 
 ```text
-docs/
-    TestPlan/
-    TestCases/
-    BugReports/
-    TestExecution/
-    TestSummary/
+ArenaOfValor-QA-Portfolio/
+    01-TestPlan/
+    02-TestCases/
+    03-BugReports/
+        AOV-BUG-001/
+        AOV-BUG-002/
+        AOV-BUG-002/
+        AOV-BUG-004/
+    04-TestExecution/
 
-Screenshots/
-
-Videos/
 ```
 
 ---
 
-# 📋 Test Coverage
+# Test Coverage
 
 ## Completed Functional Testing
 
@@ -79,11 +78,8 @@ These modules were selected to demonstrate complete Test Case design and executi
 The repository also documents several gameplay defects discovered during actual gameplay, including:
 
 - Vision System
-- Hero AI Behavior
 - Equipment
 - EVO Progression
-- Resurrection Equipment
-- Active Equipment
 - Peak Tournament
 
 Each issue includes:
@@ -98,24 +94,22 @@ Each issue includes:
 
 ---
 
-# 🛠 Tools
+# Tools
 
-| Category        | Tool                      |
-| --------------- | ------------------------- |
-| Documentation   | Markdown                  |
-| Version Control | Git                       |
-| Repository      | GitHub                    |
-| Spreadsheet     | Microsoft Excel           |
-| Bug Tracking    | Jira Workflow (Simulated) |
+| Category        | Tool                          |
+| --------------- | ----------------------------- |
+| Documentation   | Markdown                      |
+| Version Control | Git                           |
+| Repository      | GitHub                        |
+| Bug Tracking    | Markdown Workflow (Simulated) |
 
 ---
 
-# 👨‍💻 Skills Demonstrated
+# Skills Demonstrated
 
 - Manual Testing
-- Functional Testing
 - Exploratory Testing
-- Regression Testing
+- Black Box Testing
 - Test Case Design
 - Bug Reporting
 - Defect Analysis
@@ -123,7 +117,7 @@ Each issue includes:
 
 ---
 
-# 📌 Disclaimer
+# Disclaimer
 
 Arena of Valor and all related intellectual properties belong to their respective owners.
 
